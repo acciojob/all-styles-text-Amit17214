@@ -1,15 +1,14 @@
 
 /* Your CSS Code here. */
-h2{
+.main{
 	width: 200px;
 	background-color: purple;
 	border-left: 5px solid green;
 	padding:10px;
-	color: white;
-	font-size: 20px;
-}
-/* .heading{
 	
-/* 	margin-left:5px */
-	 */
+	
+}
+#heading{
+	font-size: 20px;
+	color: white;
 }
